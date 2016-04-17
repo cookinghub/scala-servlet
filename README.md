@@ -1,6 +1,6 @@
 # scala-servlet
 
-Just fooling around with Servlet and Scala...
+Just fooling around with Scala and the Servlet model... for fun. 
 
 ### Description
 A tiny http toolkit written in Scala for developing HTTP based services on top of a Java servlet.
