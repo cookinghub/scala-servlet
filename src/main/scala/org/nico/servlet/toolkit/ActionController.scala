@@ -3,6 +3,7 @@ package org.nico.servlet.toolkit
 import org.nico.servlet.toolkit.http.tools.ContentType._
 import org.nico.servlet.toolkit.http.tools.{Results, Security}
 import org.nico.servlet.toolkit.http.{HttpAction, HttpRequest, HttpResult}
+import org.slf4j.Logger
 import play.api.libs.json._
 
 
